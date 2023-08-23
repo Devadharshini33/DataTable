@@ -1,0 +1,14 @@
+.tab-head {
+    background-color: black;
+    color: white;
+}
+
+div#example_length {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+div#example_filter {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
